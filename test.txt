@@ -3,8 +3,16 @@ tu va bien
 ouais 
 super
 exceptionnel
+<<<<<<< HEAD
 incroyable
 GIT
 Cours
 CocaCola
 Fin
+=======
+Mouchoir
+souris
+iPhone
+Prise
+Ordinateur
+>>>>>>> dev
